@@ -5,7 +5,7 @@ The purpose of this analysis is to look at the statistical data for the months J
 
 ## Results:
 ![Image](images/june_stat_summary.png)
-![Image](images/dec_stat_summary.png)
+![Image](images/dec_stat_summary.png)<br />
 Three key differences in weather between June and December:
 - June's average temperature is 74 degrees while Decemner's average temperature is 71 degrees.
 - June's minimum temperature is 64 degreees while December's minimum temperature is 56 degrees.
